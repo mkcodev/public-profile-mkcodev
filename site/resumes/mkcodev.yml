@@ -1,4 +1,15 @@
 # Personal Information
+
+
+
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
 basic_info:
     first_name: Mikel
     last_name: Salvador
@@ -13,7 +24,21 @@ basic_info:
       My fascination with technology began in the Android era (Kit-Kat, Jelly Bean, and Lollipop), where I spent my time rooting devices, flashing custom ROMs, and exploring system vulnerabilities.
       This curiosity drove me to dive into Linux distributions in 2020, eventually building my own Arch Linux system and automating workflows. Since then, I have continued my journey as a self-taught developer, constantly learning everything necessary to master Software Engineering.
 
-    # Languages
+
+    avatar: https://media.licdn.com/dms/image/v2/D4E03AQHUNtJQ2TS4cA/profile-displayphoto-scale_400_400/B4EZzT5KmrKkAk-/0/1773081506077?e=1775692800&v=beta&t=80-ssLOWtD9f88QiHg5sRkTp87KD3XhJ937rvVGv_sU
+
+    # Contact Information
+    email: mikelrow00@gmail.com #optional
+    linkedin: mikel Salvador #optional
+
+
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: https://github.com/mkcodev
+
+    linkedin: 'https://www.linkedin.com/in/mkcodev' #optional
+
+     # Languages
     languages:
       - idiom: Spanish
         level: Native
@@ -54,3 +79,36 @@ experiences:
       time: 2021 - 2025
       details: |
         Developed custom websites using both WordPress and modern web stacks such as React, Next.js, and Astro.
+
+
+skills:
+    toolset:
+      - name: Python
+        level: 20%
+
+      - name: TavaScript
+        level: 80%
+
+      - name: React
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Bash
+        level: 60%
+
+      - name: Illustrator & Photoshop
+        level: 65%
+
+      - name: WordPress
+        level: 90%
+
+      - name: Next.js
+        level: 70%
+
+      - name: Node.js
+        level: 60%
+
+      - name: nest.js
+        level: 40%
