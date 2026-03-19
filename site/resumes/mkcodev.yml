@@ -1,0 +1,56 @@
+# Personal Information
+basic_info:
+    first_name: Mikel
+    last_name: Salvador
+
+    motto: I enjoy building solutions to problems and helping people.
+
+    focus: Programming something amazing.
+
+    summary: |
+      I am a freelance developer with a track record in web development since 2019. I started my journey in Digital Marketing, which led me to develop and optimize WordPress sites using SEO—my first passion. To become a more versatile developer, I prioritized mastering Graphic and UI Design to ensure high-quality visual aesthetics in every project.
+
+      My fascination with technology began in the Android era (Kit-Kat, Jelly Bean, and Lollipop), where I spent my time rooting devices, flashing custom ROMs, and exploring system vulnerabilities.
+      This curiosity drove me to dive into Linux distributions in 2020, eventually building my own Arch Linux system and automating workflows. Since then, I have continued my journey as a self-taught developer, constantly learning everything necessary to master Software Engineering.
+
+    # Languages
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Intermediate
+
+    # Interests
+    interests:
+      - item: Calisthenics
+      - item: Rap & Techno
+      - item: Linux
+      - item: Anime
+
+# Education
+education:
+    - degree: Vocational Training in Electricity (FPB)
+      university: IES - Río Duero
+      time: 2016 - 2018
+      details: |
+        Foundational training in electricity and electronics through the Basic Vocational Training program.
+
+    - degree: Specialized Web Development Courses
+      university: Devtalles.com & Udemy.com
+      time: 2019 - 2026
+      details: |
+        Self-taught learning of modern web technologies and Software Engineering principles, guided by industry-leading mentors.
+          - MERN Stack (MongoDB, Express, React, Node.js)
+          - Tailwind CSS, SASS, Docker, AWS, Qwik, Bash, Astro
+
+# Work Experience
+experiences:
+    - role: Waiter
+      time: 2016 - 2020
+      company: Disco Bar Zulu
+
+    - role: Freelance Developer
+      time: 2021 - 2025
+      details: |
+        Developed custom websites using both WordPress and modern web stacks such as React, Next.js, and Astro.
